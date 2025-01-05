@@ -1,5 +1,4 @@
 obsidian_vault/
 notebooksVenv/
-modelVnv/
-__pycache__/
 data/
+.env
